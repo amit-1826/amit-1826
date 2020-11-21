@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**amit-1826/amit-1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as MEAN Stack Developer
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: amitdubey1826@gmail.com
 
-Here are some ideas to get you started:
+## &#x270d; Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles on my website at [bytewarp](https://bytewarp.blogspot.com/) .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=amit-1826&theme=vision-friendly-dark&show_icons=true" />
+
+<a href="https://github.com/amit-1826/amit-1826">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-1826&hide=html&theme=vision-friendly-dark" />
+</a>
