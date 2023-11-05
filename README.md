@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working an Angular Developer
+- 🔭 I’m currently working as Angular Developer
 - 🌱 I’m currently learning MEAN Stack
 - 📫 How to reach me: amitdubey1826@gmail.com
 
